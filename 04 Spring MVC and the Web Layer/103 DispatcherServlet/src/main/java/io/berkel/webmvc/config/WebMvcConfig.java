@@ -1,4 +1,4 @@
-package io.berkel.webmvc.config;
+package com.vinodv.webmvc.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -28,7 +28,7 @@ import java.util.List;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"io.berkel.webmvc"})
+@ComponentScan(basePackages = {"com.vinodv.webmvc"})
 public class WebMvcConfig implements WebMvcConfigurer {
 
     @Bean

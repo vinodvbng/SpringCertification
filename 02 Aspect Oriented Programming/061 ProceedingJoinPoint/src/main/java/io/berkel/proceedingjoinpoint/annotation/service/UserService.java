@@ -1,4 +1,4 @@
-package io.berkel.proceedingjoinpoint.annotation.service;
+package com.vinodv.proceedingjoinpoint.annotation.service;
 
 public class UserService {
 

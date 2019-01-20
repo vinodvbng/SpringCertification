@@ -1,4 +1,4 @@
-package io.berkel.afterthrowing.annotation.service;
+package com.vinodv.afterthrowing.annotation.service;
 
 public class UserService {
 

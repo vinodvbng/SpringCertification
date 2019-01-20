@@ -1,6 +1,6 @@
-package io.berkel.crud.dao;
+package com.vinodv.crud.dao;
 
-import io.berkel.crud.model.Person;
+import com.vinodv.crud.model.Person;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

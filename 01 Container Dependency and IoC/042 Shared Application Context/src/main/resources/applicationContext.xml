@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="barService" class="io.berkel.sharedappcontext.service.BarServiceImpl"></bean>
-    <bean id="fooService" class="io.berkel.sharedappcontext.service.FooServiceImpl"></bean>
+    <bean id="barService" class="com.vinodv.sharedappcontext.service.BarServiceImpl"></bean>
+    <bean id="fooService" class="com.vinodv.sharedappcontext.service.FooServiceImpl"></bean>
 
 </beans>

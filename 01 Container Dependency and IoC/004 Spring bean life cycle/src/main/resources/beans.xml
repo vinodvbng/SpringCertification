@@ -5,7 +5,7 @@
 	   					   http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="message" class="io.berkel.springbeanlifecycle.MessageImpl"/>
-    <bean id="exampleBean" class="io.berkel.springbeanlifecycle.ExampleBeanImpl" init-method="init" destroy-method="destroy"/>
+    <bean id="message" class="com.vinodv.springbeanlifecycle.MessageImpl"/>
+    <bean id="exampleBean" class="com.vinodv.springbeanlifecycle.ExampleBeanImpl" init-method="init" destroy-method="destroy"/>
 
 </beans>

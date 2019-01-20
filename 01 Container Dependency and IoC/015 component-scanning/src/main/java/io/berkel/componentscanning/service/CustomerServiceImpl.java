@@ -1,6 +1,6 @@
-package io.berkel.componentscanning.service;
+package com.vinodv.componentscanning.service;
 
-import io.berkel.componentscanning.dao.CustomerDAO;
+import com.vinodv.componentscanning.dao.CustomerDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

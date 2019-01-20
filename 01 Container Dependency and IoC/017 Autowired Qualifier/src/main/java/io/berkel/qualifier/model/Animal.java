@@ -1,4 +1,4 @@
-package io.berkel.qualifier.model;
+package com.vinodv.qualifier.model;
 
 public interface Animal {
 

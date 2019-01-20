@@ -1,7 +1,7 @@
-package io.berkel.proceedingjoinpoint.annotation.main;
+package com.vinodv.proceedingjoinpoint.annotation.main;
 
-import io.berkel.proceedingjoinpoint.annotation.config.AppConfig;
-import io.berkel.proceedingjoinpoint.annotation.service.UserService;
+import com.vinodv.proceedingjoinpoint.annotation.config.AppConfig;
+import com.vinodv.proceedingjoinpoint.annotation.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

@@ -1,4 +1,4 @@
-package io.berkel.pointcut.annotation.service;
+package com.vinodv.pointcut.annotation.service;
 
 public class UserService {
 

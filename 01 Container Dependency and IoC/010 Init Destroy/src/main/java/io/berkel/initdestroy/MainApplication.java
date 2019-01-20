@@ -1,4 +1,4 @@
-package io.berkel.initdestroy;
+package com.vinodv.initdestroy;
 
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

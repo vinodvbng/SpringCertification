@@ -14,7 +14,7 @@
                                   http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-    <context:component-scan base-package="io.berkel.crud.*" />
+    <context:component-scan base-package="com.vinodv.crud.*" />
 
     <!-- Enables the Spring MVC @Controller programming model -->
     <mvc:annotation-driven />
@@ -35,7 +35,7 @@
 
     <bean id="entityManagerFactory" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
         <property name="dataSource" ref="dataSource" />
-        <property name="packagesToScan" value="io.berkel.crud.model" />
+        <property name="packagesToScan" value="com.vinodv.crud.model" />
         <property name="jpaVendorAdapter" ref="hibernateJpaVendorAdapter" />
         <property name="jpaProperties">
             <props>

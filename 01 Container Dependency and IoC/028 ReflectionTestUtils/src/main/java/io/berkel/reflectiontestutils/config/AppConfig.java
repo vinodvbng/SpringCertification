@@ -1,10 +1,10 @@
-package io.berkel.reflectiontestutils.config;
+package com.vinodv.reflectiontestutils.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import io.berkel.reflectiontestutils.service.PersonService;
-import io.berkel.reflectiontestutils.service.PersonServiceImpl;
+import com.vinodv.reflectiontestutils.service.PersonService;
+import com.vinodv.reflectiontestutils.service.PersonServiceImpl;
 
 @Configuration
 public class AppConfig {

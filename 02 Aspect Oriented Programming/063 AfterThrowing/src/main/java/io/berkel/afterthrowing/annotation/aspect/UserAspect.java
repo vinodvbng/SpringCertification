@@ -1,4 +1,4 @@
-package io.berkel.afterthrowing.annotation.aspect;
+package com.vinodv.afterthrowing.annotation.aspect;
 
 import org.aspectj.lang.annotation.AfterThrowing;
 import org.aspectj.lang.annotation.Aspect;
@@ -7,7 +7,7 @@ import org.aspectj.lang.annotation.Pointcut;
 @Aspect
 public class UserAspect {
 
-    @Pointcut("execution(* io.berkel.afterthrowing.annotation.service.*.*(..))")
+    @Pointcut("execution(* com.vinodv.afterthrowing.annotation.service.*.*(..))")
     private void pointcut(){}
 
     @AfterThrowing(pointcut = "pointcut()", throwing = "exception")

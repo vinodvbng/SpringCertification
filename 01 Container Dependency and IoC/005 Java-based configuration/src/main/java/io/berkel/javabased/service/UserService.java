@@ -1,4 +1,4 @@
-package io.berkel.javabased.service;
+package com.vinodv.javabased.service;
 
 public class UserService {
 

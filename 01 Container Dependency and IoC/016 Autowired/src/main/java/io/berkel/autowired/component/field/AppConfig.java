@@ -1,9 +1,9 @@
-package io.berkel.autowired.component.field;
+package com.vinodv.autowired.component.field;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages="io.berkel.autowired.component.field")
+@ComponentScan(basePackages="com.vinodv.autowired.component.field")
 public class AppConfig {
 }

@@ -1,4 +1,4 @@
-package io.berkel.webmvc.controller;
+package com.vinodv.webmvc.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

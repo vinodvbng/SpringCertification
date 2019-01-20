@@ -1,9 +1,9 @@
-package io.berkel.springdata.config;
+package com.vinodv.springdata.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
-import io.berkel.springdata.service.CityService;
-import io.berkel.springdata.service.CityServiceImpl;
+import com.vinodv.springdata.service.CityService;
+import com.vinodv.springdata.service.CityServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
@@ -20,7 +20,7 @@ import java.util.Properties;
 
 @Configuration
 @PropertySource("classpath:application.properties")
-@EnableJpaRepositories(basePackages = {"io.berkel.springdata"})
+@EnableJpaRepositories(basePackages = {"com.vinodv.springdata"})
 @EnableTransactionManagement
 public class AppConfig {
 
@@ -54,7 +54,7 @@ public class AppConfig {
         LocalContainerEntityManagerFactoryBean entityManagerFactoryBean = new LocalContainerEntityManagerFactoryBean();
         entityManagerFactoryBean.setDataSource(dataSource);
         entityManagerFactoryBean.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
-        entityManagerFactoryBean.setPackagesToScan("io.berkel.springdata.model");
+        entityManagerFactoryBean.setPackagesToScan("com.vinodv.springdata.model");
         Properties jpaProperties = new Properties();
         jpaProperties.put("hibernate.dialect", env.getRequiredProperty("hibernate.dialect"));
         //jpaProperties.put("hibernate.hbm2ddl.auto", env.getRequiredProperty("hibernate.hbm2ddl.auto"));

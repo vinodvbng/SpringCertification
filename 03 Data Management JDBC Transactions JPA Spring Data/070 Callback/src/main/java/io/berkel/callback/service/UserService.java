@@ -1,4 +1,4 @@
-package io.berkel.callback.service;
+package com.vinodv.callback.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.*;

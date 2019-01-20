@@ -1,7 +1,7 @@
-package io.berkel.genericqueries.main;
+package com.vinodv.genericqueries.main;
 
-import io.berkel.genericqueries.config.AppConfig;
-import io.berkel.genericqueries.service.UserService;
+import com.vinodv.genericqueries.config.AppConfig;
+import com.vinodv.genericqueries.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

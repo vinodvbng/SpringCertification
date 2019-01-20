@@ -1,10 +1,10 @@
-package io.berkel.annotations.config;
+package com.vinodv.annotations.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages = {"io.berkel.annotations.*"})
+@ComponentScan(basePackages = {"com.vinodv.annotations.*"})
 public class AppConfig {
 
 }

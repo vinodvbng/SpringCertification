@@ -1,7 +1,7 @@
-package io.berkel.pointcut.annotation.main;
+package com.vinodv.pointcut.annotation.main;
 
-import io.berkel.pointcut.annotation.config.AppConfig;
-import io.berkel.pointcut.annotation.service.UserService;
+import com.vinodv.pointcut.annotation.config.AppConfig;
+import com.vinodv.pointcut.annotation.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

@@ -1,4 +1,4 @@
-package io.berkel.annotations.service;
+package com.vinodv.annotations.service;
 
 public interface EmployeeService {
 

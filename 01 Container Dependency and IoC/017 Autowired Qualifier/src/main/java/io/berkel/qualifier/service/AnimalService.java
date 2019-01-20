@@ -1,7 +1,7 @@
-package io.berkel.qualifier.service;
+package com.vinodv.qualifier.service;
 
-import io.berkel.qualifier.model.Animal;
-import io.berkel.qualifier.model.Zoo;
+import com.vinodv.qualifier.model.Animal;
+import com.vinodv.qualifier.model.Zoo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

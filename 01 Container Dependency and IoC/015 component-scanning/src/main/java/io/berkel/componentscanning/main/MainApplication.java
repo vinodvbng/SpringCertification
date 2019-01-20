@@ -1,6 +1,6 @@
-package io.berkel.componentscanning.main;
+package com.vinodv.componentscanning.main;
 
-import io.berkel.componentscanning.service.CustomerService;
+import com.vinodv.componentscanning.service.CustomerService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

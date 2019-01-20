@@ -1,7 +1,7 @@
-package io.berkel.qualifier.main;
+package com.vinodv.qualifier.main;
 
-import io.berkel.qualifier.config.AppConfig;
-import io.berkel.qualifier.service.AnimalService;
+import com.vinodv.qualifier.config.AppConfig;
+import com.vinodv.qualifier.service.AnimalService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

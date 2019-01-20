@@ -1,9 +1,9 @@
-package io.berkel.junitspring.service;
+package com.vinodv.junitspring.service;
 
 import java.util.Date;
 import java.util.Random;
 
-import io.berkel.junitspring.model.Order;
+import com.vinodv.junitspring.model.Order;
 
 public class SampleServiceImpl implements SampleService {
 	

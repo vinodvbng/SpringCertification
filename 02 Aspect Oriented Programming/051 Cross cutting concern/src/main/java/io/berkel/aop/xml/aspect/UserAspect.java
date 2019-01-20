@@ -1,4 +1,4 @@
-package io.berkel.aop.xml.aspect;
+package com.vinodv.aop.xml.aspect;
 
 public class UserAspect {
 

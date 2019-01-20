@@ -1,4 +1,4 @@
-package io.berkel.junitspring.test;
+package com.vinodv.junitspring.test;
 
 import static org.hamcrest.CoreMatchers.instanceOf;
 import static org.junit.Assert.assertEquals;
@@ -14,9 +14,9 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.support.AnnotationConfigContextLoader;
 
-import io.berkel.junitspring.config.AppConfig;
-import io.berkel.junitspring.model.Order;
-import io.berkel.junitspring.service.SampleService;
+import com.vinodv.junitspring.config.AppConfig;
+import com.vinodv.junitspring.model.Order;
+import com.vinodv.junitspring.service.SampleService;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes=AppConfig.class,loader=AnnotationConfigContextLoader.class)
@@ -32,7 +32,7 @@ public class AppTest {
 	
 	@Test
 	public void testSampleService() {
-		assertEquals("class io.berkel.junitspring.service.SampleServiceImpl",this.sampleService.getClass().toString());
+		assertEquals("class com.vinodv.junitspring.service.SampleServiceImpl",this.sampleService.getClass().toString());
 	}
 	
 	@Test

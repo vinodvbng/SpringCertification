@@ -1,10 +1,10 @@
-package io.berkel.profiles;
+package com.vinodv.profiles;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("io.berkel.profiles")
+@ComponentScan("com.vinodv.profiles")
 public class SpringProfilesConfig {
 
 }

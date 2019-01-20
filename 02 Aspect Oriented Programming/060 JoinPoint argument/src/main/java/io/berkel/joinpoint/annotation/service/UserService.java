@@ -1,4 +1,4 @@
-package io.berkel.joinpoint.annotation.service;
+package com.vinodv.joinpoint.annotation.service;
 
 public class UserService {
 

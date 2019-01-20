@@ -1,6 +1,6 @@
-package io.berkel.responsestatus.controller;
+package com.vinodv.responsestatus.controller;
 
-import io.berkel.responsestatus.exception.OrderNotFoundException;
+import com.vinodv.responsestatus.exception.OrderNotFoundException;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,7 +1,7 @@
-package io.berkel.scalar.main;
+package com.vinodv.scalar.main;
 
-import io.berkel.scalar.config.AppConfig;
-import io.berkel.scalar.service.BookService;
+import com.vinodv.scalar.config.AppConfig;
+import com.vinodv.scalar.service.BookService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

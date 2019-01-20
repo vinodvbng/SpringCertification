@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>HelloWorld</servlet-name>
-        <servlet-class>io.berkel.servlets.HelloWorld</servlet-class>
+        <servlet-class>com.vinodv.servlets.HelloWorld</servlet-class>
     </servlet>
 
     <servlet-mapping>

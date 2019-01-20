@@ -1,4 +1,4 @@
-package io.berkel.transactional.service;
+package com.vinodv.transactional.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;

@@ -1,6 +1,6 @@
-package io.berkel.annotations.service;
+package com.vinodv.annotations.service;
 
-import io.berkel.annotations.dao.EmployeeDAO;
+import com.vinodv.annotations.dao.EmployeeDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -5,8 +5,8 @@
 	   					   http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor" />
-    <bean id="message" class="io.berkel.initdestroy.MessageImpl"/>
-    <bean id="exampleBean" class="io.berkel.initdestroy.ExampleBeanImpl" init-method="init" destroy-method="destroy"/>
-    <bean id="cachingMovieLister" class="io.berkel.initdestroy.CachingMovieListerImpl"/>
+    <bean id="message" class="com.vinodv.initdestroy.MessageImpl"/>
+    <bean id="exampleBean" class="com.vinodv.initdestroy.ExampleBeanImpl" init-method="init" destroy-method="destroy"/>
+    <bean id="cachingMovieLister" class="com.vinodv.initdestroy.CachingMovieListerImpl"/>
 
 </beans>

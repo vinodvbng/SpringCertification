@@ -1,7 +1,7 @@
-package io.berkel.javabased.main;
+package com.vinodv.javabased.main;
 
-import io.berkel.javabased.config.AppConfig;
-import io.berkel.javabased.service.UserService;
+import com.vinodv.javabased.config.AppConfig;
+import com.vinodv.javabased.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

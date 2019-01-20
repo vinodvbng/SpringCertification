@@ -1,4 +1,4 @@
-package io.berkel.proceedingjoinpoint.annotation.aspect;
+package com.vinodv.proceedingjoinpoint.annotation.aspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
@@ -8,7 +8,7 @@ import org.aspectj.lang.annotation.Pointcut;
 @Aspect
 public class UserAspect {
 
-    @Pointcut("execution(* io.berkel.proceedingjoinpoint.annotation.service.*.*(..))")
+    @Pointcut("execution(* com.vinodv.proceedingjoinpoint.annotation.service.*.*(..))")
     private void pointcut(){}
 
     @Around("pointcut()")

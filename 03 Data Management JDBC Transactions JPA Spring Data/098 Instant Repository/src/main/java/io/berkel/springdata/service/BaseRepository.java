@@ -1,4 +1,4 @@
-package io.berkel.springdata.service;
+package com.vinodv.springdata.service;
 
 import org.springframework.data.repository.NoRepositoryBean;
 import org.springframework.data.repository.Repository;

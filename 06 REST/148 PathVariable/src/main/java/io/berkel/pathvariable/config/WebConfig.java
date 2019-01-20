@@ -1,4 +1,4 @@
-package io.berkel.pathvariable.config;
+package com.vinodv.pathvariable.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -10,7 +10,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"io.berkel.pathvariable.controller"})
+@ComponentScan(basePackages = {"com.vinodv.pathvariable.controller"})
 public class WebConfig extends WebMvcConfigurerAdapter {
 
     @Bean

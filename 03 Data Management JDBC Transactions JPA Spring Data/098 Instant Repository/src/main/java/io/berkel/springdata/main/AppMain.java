@@ -1,7 +1,7 @@
-package io.berkel.springdata.main;
+package com.vinodv.springdata.main;
 
-import io.berkel.springdata.config.AppConfig;
-import io.berkel.springdata.service.CityService;
+import com.vinodv.springdata.config.AppConfig;
+import com.vinodv.springdata.service.CityService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

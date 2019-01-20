@@ -1,4 +1,4 @@
-package io.berkel.incomingrequest.config;
+package com.vinodv.incomingrequest.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

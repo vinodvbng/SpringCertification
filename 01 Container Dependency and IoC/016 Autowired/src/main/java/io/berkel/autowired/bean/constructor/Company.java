@@ -1,4 +1,4 @@
-package io.berkel.autowired.bean.constructor;
+package com.vinodv.autowired.bean.constructor;
 
 public class Company {
 

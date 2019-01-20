@@ -1,4 +1,4 @@
-package io.berkel.pathvariable.config;
+package com.vinodv.pathvariable.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -28,7 +28,7 @@ import java.util.List;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"io.berkel.pathvariable"})
+@ComponentScan(basePackages = {"com.vinodv.pathvariable"})
 public class WebMvcConfig implements WebMvcConfigurer {
 
     @Bean

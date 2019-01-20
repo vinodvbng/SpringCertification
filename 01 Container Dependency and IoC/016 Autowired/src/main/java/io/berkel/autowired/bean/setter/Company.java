@@ -1,4 +1,4 @@
-package io.berkel.autowired.bean.setter;
+package com.vinodv.autowired.bean.setter;
 
 public class Company {
 

@@ -1,4 +1,4 @@
-package io.berkel.requestparam.config;
+package com.vinodv.requestparam.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -28,7 +28,7 @@ import java.util.List;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"io.berkel.requestparam"})
+@ComponentScan(basePackages = {"com.vinodv.requestparam"})
 public class WebMvcConfig implements WebMvcConfigurer {
 
     @Bean

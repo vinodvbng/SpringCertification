@@ -1,4 +1,4 @@
-package io.berkel.genericqueries.model;
+package com.vinodv.genericqueries.model;
 
 public class City {
 

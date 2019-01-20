@@ -1,10 +1,10 @@
-package io.berkel.beanpostprocessor.config;
+package com.vinodv.beanpostprocessor.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages="io.berkel.beanpostprocessor.*")
+@ComponentScan(basePackages="com.vinodv.beanpostprocessor.*")
 public class AppConfig {
 
 }

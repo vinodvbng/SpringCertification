@@ -1,4 +1,4 @@
-package io.berkel.responsestatus.config;
+package com.vinodv.responsestatus.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

@@ -1,4 +1,4 @@
-package io.berkel.properties.config;
+package com.vinodv.properties.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

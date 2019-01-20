@@ -1,6 +1,6 @@
-package io.berkel.annotations.dao;
+package com.vinodv.annotations.dao;
 
-import io.berkel.annotations.model.Employee;
+import com.vinodv.annotations.model.Employee;
 
 import java.util.List;
 

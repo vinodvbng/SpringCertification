@@ -1,6 +1,6 @@
-package io.berkel.junitspring.service;
+package com.vinodv.junitspring.service;
 
-import io.berkel.junitspring.model.Order;
+import com.vinodv.junitspring.model.Order;
 
 public interface SampleService {
 	

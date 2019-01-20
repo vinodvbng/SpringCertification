@@ -1,6 +1,6 @@
-package io.berkel.plainsql.config;
+package com.vinodv.plainsql.config;
 
-import io.berkel.plainsql.service.UserService;
+import com.vinodv.plainsql.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;

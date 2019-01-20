@@ -1,6 +1,6 @@
-package io.berkel.springdata.service;
+package com.vinodv.springdata.service;
 
-import io.berkel.springdata.model.City;
+import com.vinodv.springdata.model.City;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package io.berkel.aop.xml.main;
+package com.vinodv.aop.xml.main;
 
-import io.berkel.aop.xml.service.UserService;
+import com.vinodv.aop.xml.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

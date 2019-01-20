@@ -1,4 +1,4 @@
-package io.berkel.beanid.service;
+package com.vinodv.beanid.service;
 
 public class HelloWorld {
 

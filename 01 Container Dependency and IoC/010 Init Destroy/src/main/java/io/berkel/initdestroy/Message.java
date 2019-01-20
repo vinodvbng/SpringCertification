@@ -1,4 +1,4 @@
-package io.berkel.initdestroy;
+package com.vinodv.initdestroy;
 
 public interface Message {
 

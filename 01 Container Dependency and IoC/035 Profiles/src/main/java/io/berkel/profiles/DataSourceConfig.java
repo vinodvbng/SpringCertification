@@ -1,4 +1,4 @@
-package io.berkel.profiles;
+package com.vinodv.profiles;
 
 public interface DataSourceConfig {
 

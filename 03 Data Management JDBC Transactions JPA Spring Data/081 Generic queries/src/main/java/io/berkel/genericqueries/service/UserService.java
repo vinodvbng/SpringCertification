@@ -1,6 +1,6 @@
-package io.berkel.genericqueries.service;
+package com.vinodv.genericqueries.service;
 
-import io.berkel.genericqueries.model.City;
+import com.vinodv.genericqueries.model.City;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowCallbackHandler;

@@ -1,7 +1,7 @@
-package io.berkel.joinpoint.annotation.main;
+package com.vinodv.joinpoint.annotation.main;
 
-import io.berkel.joinpoint.annotation.config.AppConfig;
-import io.berkel.joinpoint.annotation.service.UserService;
+import com.vinodv.joinpoint.annotation.config.AppConfig;
+import com.vinodv.joinpoint.annotation.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

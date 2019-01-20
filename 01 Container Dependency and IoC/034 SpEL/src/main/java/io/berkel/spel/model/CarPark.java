@@ -1,4 +1,4 @@
-package io.berkel.spel.model;
+package com.vinodv.spel.model;
 
 import org.springframework.stereotype.Component;
 

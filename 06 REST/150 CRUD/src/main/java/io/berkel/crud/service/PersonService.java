@@ -1,6 +1,6 @@
-package io.berkel.crud.service;
+package com.vinodv.crud.service;
 
-import io.berkel.crud.model.Person;
+import com.vinodv.crud.model.Person;
 
 import java.util.List;
 

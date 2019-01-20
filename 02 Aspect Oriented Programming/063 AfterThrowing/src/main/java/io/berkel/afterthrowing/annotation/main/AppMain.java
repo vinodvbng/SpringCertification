@@ -1,7 +1,7 @@
-package io.berkel.afterthrowing.annotation.main;
+package com.vinodv.afterthrowing.annotation.main;
 
-import io.berkel.afterthrowing.annotation.config.AppConfig;
-import io.berkel.afterthrowing.annotation.service.UserService;
+import com.vinodv.afterthrowing.annotation.config.AppConfig;
+import com.vinodv.afterthrowing.annotation.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

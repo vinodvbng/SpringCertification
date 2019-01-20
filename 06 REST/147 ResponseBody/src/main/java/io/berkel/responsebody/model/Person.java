@@ -1,4 +1,4 @@
-package io.berkel.responsebody.model;
+package com.vinodv.responsebody.model;
 
 public class Person {
 

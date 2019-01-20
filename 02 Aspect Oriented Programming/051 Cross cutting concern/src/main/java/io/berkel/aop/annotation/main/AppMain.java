@@ -1,7 +1,7 @@
-package io.berkel.aop.annotation.main;
+package com.vinodv.aop.annotation.main;
 
-import io.berkel.aop.annotation.config.AppConfig;
-import io.berkel.aop.annotation.service.UserService;
+import com.vinodv.aop.annotation.config.AppConfig;
+import com.vinodv.aop.annotation.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

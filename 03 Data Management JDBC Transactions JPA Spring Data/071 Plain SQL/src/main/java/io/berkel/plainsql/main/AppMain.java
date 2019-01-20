@@ -1,7 +1,7 @@
-package io.berkel.plainsql.main;
+package com.vinodv.plainsql.main;
 
-import io.berkel.plainsql.config.AppConfig;
-import io.berkel.plainsql.service.UserService;
+import com.vinodv.plainsql.config.AppConfig;
+import com.vinodv.plainsql.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

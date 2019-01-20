@@ -1,10 +1,10 @@
-package io.berkel.qualifier.config;
+package com.vinodv.qualifier.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages="io.berkel.qualifier")
+@ComponentScan(basePackages="com.vinodv.qualifier")
 public class AppConfig {
 
 }

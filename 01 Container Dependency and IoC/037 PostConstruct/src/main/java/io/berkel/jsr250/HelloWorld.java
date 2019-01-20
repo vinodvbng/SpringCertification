@@ -1,4 +1,4 @@
-package io.berkel.jsr250;
+package com.vinodv.jsr250;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

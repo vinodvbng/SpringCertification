@@ -1,4 +1,4 @@
-package io.berkel.profiles;
+package com.vinodv.profiles;
 
 import org.junit.Assert;
 import org.junit.Test;

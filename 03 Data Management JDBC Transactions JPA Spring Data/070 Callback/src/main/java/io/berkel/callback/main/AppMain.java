@@ -1,7 +1,7 @@
-package io.berkel.callback.main;
+package com.vinodv.callback.main;
 
-import io.berkel.callback.config.AppConfig;
-import io.berkel.callback.service.UserService;
+import com.vinodv.callback.config.AppConfig;
+import com.vinodv.callback.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

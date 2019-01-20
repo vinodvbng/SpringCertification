@@ -1,4 +1,4 @@
-package io.berkel.springdata.model;
+package com.vinodv.springdata.model;
 
 import javax.persistence.*;
 

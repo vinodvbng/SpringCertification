@@ -1,4 +1,4 @@
-package io.berkel.responsebody.config;
+package com.vinodv.responsebody.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -10,7 +10,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"io.berkel.responsebody.controller"})
+@ComponentScan(basePackages = {"com.vinodv.responsebody.controller"})
 public class WebConfig extends WebMvcConfigurerAdapter {
 
     @Bean

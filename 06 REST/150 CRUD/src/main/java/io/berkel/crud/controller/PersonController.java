@@ -1,7 +1,7 @@
-package io.berkel.crud.controller;
+package com.vinodv.crud.controller;
 
-import io.berkel.crud.model.Person;
-import io.berkel.crud.service.PersonService;
+import com.vinodv.crud.model.Person;
+import com.vinodv.crud.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

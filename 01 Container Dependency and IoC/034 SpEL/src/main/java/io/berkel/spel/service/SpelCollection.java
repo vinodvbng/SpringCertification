@@ -1,6 +1,6 @@
-package io.berkel.spel.service;
+package com.vinodv.spel.service;
 
-import io.berkel.spel.model.Car;
+import com.vinodv.spel.model.Car;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,6 @@
-package io.berkel.callback.config;
+package com.vinodv.callback.config;
 
-import io.berkel.callback.service.UserService;
+import com.vinodv.callback.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;

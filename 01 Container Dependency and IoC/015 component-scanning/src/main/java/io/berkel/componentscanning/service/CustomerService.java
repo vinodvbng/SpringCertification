@@ -1,4 +1,4 @@
-package io.berkel.componentscanning.service;
+package com.vinodv.componentscanning.service;
 
 public interface CustomerService {
 

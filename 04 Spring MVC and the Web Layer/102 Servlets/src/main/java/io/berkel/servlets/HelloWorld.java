@@ -1,4 +1,4 @@
-package io.berkel.servlets;
+package com.vinodv.servlets;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

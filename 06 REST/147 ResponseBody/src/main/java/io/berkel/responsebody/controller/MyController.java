@@ -1,6 +1,6 @@
-package io.berkel.responsebody.controller;
+package com.vinodv.responsebody.controller;
 
-import io.berkel.responsebody.model.Person;
+import com.vinodv.responsebody.model.Person;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;

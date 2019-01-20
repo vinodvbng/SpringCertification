@@ -1,4 +1,4 @@
-package io.berkel.incomingrequest.controller;
+package com.vinodv.incomingrequest.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

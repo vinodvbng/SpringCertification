@@ -1,4 +1,4 @@
-package io.berkel.requestparam.config;
+package com.vinodv.requestparam.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

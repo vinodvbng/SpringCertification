@@ -1,4 +1,4 @@
-package io.berkel.sharedappcontext.service;
+package com.vinodv.sharedappcontext.service;
 
 public interface BarService {
 

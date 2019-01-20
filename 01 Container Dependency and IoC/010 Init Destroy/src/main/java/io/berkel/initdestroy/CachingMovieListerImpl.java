@@ -1,4 +1,4 @@
-package io.berkel.initdestroy;
+package com.vinodv.initdestroy;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

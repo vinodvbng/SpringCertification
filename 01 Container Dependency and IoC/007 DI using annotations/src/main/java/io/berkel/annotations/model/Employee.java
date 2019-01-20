@@ -1,4 +1,4 @@
-package io.berkel.annotations.model;
+package com.vinodv.annotations.model;
 
 public class Employee {
 

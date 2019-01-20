@@ -1,7 +1,7 @@
-package io.berkel.transactional.main;
+package com.vinodv.transactional.main;
 
-import io.berkel.transactional.config.AppConfig;
-import io.berkel.transactional.service.UserService;
+import com.vinodv.transactional.config.AppConfig;
+import com.vinodv.transactional.service.UserService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

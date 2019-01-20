@@ -1,6 +1,6 @@
-package io.berkel.reflectiontestutils.service;
+package com.vinodv.reflectiontestutils.service;
 
-import io.berkel.reflectiontestutils.model.Person;
+import com.vinodv.reflectiontestutils.model.Person;
 
 public class PersonServiceImpl implements PersonService {
 

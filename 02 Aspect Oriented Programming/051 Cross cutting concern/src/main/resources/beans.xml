@@ -7,19 +7,19 @@
                            http://www.springframework.org/schema/aop/spring-aop.xsd">
 
 
-    <bean id="userService" class="io.berkel.aop.xml.service.UserService" />
+    <bean id="userService" class="com.vinodv.aop.xml.service.UserService" />
 
-    <bean id="userAspect" class="io.berkel.aop.xml.aspect.UserAspect" />
+    <bean id="userAspect" class="com.vinodv.aop.xml.aspect.UserAspect" />
 
     <aop:config>
 
         <aop:aspect id="userAspect" ref="userAspect">
 
-            <aop:pointcut id="userBeforeAdvice" expression="execution(* io.berkel.aop.xml.service.UserService.someUserService(..))"/>
+            <aop:pointcut id="userBeforeAdvice" expression="execution(* com.vinodv.aop.xml.service.UserService.someUserService(..))"/>
 
             <aop:before pointcut-ref="userBeforeAdvice" method="userBeforeAdvice"/>
 
-            <aop:pointcut id="userAfterAdvice" expression="execution(* io.berkel.aop.xml.service.UserService.someUserService(..))"/>
+            <aop:pointcut id="userAfterAdvice" expression="execution(* com.vinodv.aop.xml.service.UserService.someUserService(..))"/>
 
             <aop:after pointcut-ref="userAfterAdvice" method="userAfterAdvice"/>
 

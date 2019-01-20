@@ -1,4 +1,4 @@
-package io.berkel.autowired.component.setter;
+package com.vinodv.autowired.component.setter;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

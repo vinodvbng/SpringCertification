@@ -1,6 +1,6 @@
-package io.berkel.genericqueries.config;
+package com.vinodv.genericqueries.config;
 
-import io.berkel.genericqueries.service.UserService;
+import com.vinodv.genericqueries.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;

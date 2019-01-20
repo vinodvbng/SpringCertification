@@ -1,4 +1,4 @@
-package io.berkel.autowired.component.constructor;
+package com.vinodv.autowired.component.constructor;
 
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

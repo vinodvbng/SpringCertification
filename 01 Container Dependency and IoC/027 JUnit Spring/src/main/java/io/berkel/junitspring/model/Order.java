@@ -1,4 +1,4 @@
-package io.berkel.junitspring.model;
+package com.vinodv.junitspring.model;
 
 import java.util.Date;
 

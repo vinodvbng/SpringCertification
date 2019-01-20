@@ -1,4 +1,4 @@
-package io.berkel.dependencyinjection.constructor;
+package com.vinodv.dependencyinjection.constructor;
 
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

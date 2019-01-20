@@ -1,4 +1,4 @@
-package io.berkel.aop.annotation.service;
+package com.vinodv.aop.annotation.service;
 
 public class UserService {
 

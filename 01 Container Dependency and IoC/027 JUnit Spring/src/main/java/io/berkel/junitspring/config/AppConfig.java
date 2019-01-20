@@ -1,10 +1,10 @@
-package io.berkel.junitspring.config;
+package com.vinodv.junitspring.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import io.berkel.junitspring.service.SampleService;
-import io.berkel.junitspring.service.SampleServiceImpl;
+import com.vinodv.junitspring.service.SampleService;
+import com.vinodv.junitspring.service.SampleServiceImpl;
 
 @Configuration
 public class AppConfig {

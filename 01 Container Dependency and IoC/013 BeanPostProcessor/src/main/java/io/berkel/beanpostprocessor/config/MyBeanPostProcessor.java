@@ -1,4 +1,4 @@
-package io.berkel.beanpostprocessor.config;
+package com.vinodv.beanpostprocessor.config;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

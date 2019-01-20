@@ -1,4 +1,4 @@
-package io.berkel.dependencyinjection.constructor;
+package com.vinodv.dependencyinjection.constructor;
 
 public class Bar2 {
 

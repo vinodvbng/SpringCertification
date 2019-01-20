@@ -1,4 +1,4 @@
-package io.berkel.crud.model;
+package com.vinodv.crud.model;
 
 import javax.persistence.*;
 

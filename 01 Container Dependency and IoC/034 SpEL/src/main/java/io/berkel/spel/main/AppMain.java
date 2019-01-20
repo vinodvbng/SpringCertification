@@ -1,6 +1,6 @@
-package io.berkel.spel.main;
+package com.vinodv.spel.main;
 
-import io.berkel.spel.service.*;
+import com.vinodv.spel.service.*;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

@@ -1,7 +1,7 @@
-package io.berkel.crud.service;
+package com.vinodv.crud.service;
 
-import io.berkel.crud.dao.PersonDAO;
-import io.berkel.crud.model.Person;
+import com.vinodv.crud.dao.PersonDAO;
+import com.vinodv.crud.model.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

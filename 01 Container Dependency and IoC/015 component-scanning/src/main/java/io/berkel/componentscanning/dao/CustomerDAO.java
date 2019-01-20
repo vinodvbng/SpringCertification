@@ -1,6 +1,6 @@
-package io.berkel.componentscanning.dao;
+package com.vinodv.componentscanning.dao;
 
-import io.berkel.componentscanning.model.Customer;
+import com.vinodv.componentscanning.model.Customer;
 
 import java.util.List;
 

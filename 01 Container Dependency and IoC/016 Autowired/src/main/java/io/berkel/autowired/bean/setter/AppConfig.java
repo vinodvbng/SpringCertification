@@ -1,4 +1,4 @@
-package io.berkel.autowired.bean.setter;
+package com.vinodv.autowired.bean.setter;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

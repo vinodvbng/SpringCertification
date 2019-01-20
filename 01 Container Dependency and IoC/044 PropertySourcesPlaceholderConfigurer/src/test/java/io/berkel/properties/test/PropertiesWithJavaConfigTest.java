@@ -1,6 +1,6 @@
-package io.berkel.properties.test;
+package com.vinodv.properties.test;
 
-import io.berkel.properties.config.PropertiesWithJavaConfig;
+import com.vinodv.properties.config.PropertiesWithJavaConfig;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

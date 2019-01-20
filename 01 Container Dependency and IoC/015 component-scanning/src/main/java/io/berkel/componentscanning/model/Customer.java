@@ -1,4 +1,4 @@
-package io.berkel.componentscanning.model;
+package com.vinodv.componentscanning.model;
 
 public class Customer {
 

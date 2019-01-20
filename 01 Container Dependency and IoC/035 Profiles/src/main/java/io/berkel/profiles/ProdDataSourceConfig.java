@@ -1,4 +1,4 @@
-package io.berkel.profiles;
+package com.vinodv.profiles;
 
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;

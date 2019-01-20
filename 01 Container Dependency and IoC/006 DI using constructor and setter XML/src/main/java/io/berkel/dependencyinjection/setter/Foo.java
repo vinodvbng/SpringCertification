@@ -1,4 +1,4 @@
-package io.berkel.dependencyinjection.setter;
+package com.vinodv.dependencyinjection.setter;
 
 import org.springframework.beans.factory.annotation.Autowired;
 

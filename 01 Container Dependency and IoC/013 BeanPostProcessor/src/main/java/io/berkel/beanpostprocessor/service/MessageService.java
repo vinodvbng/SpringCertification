@@ -1,4 +1,4 @@
-package io.berkel.beanpostprocessor.service;
+package com.vinodv.beanpostprocessor.service;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

@@ -1,10 +1,10 @@
-package io.berkel.beanid.main;
+package com.vinodv.beanid.main;
 
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import io.berkel.beanid.config.AppConfig;
-import io.berkel.beanid.service.HelloWorld;
+import com.vinodv.beanid.config.AppConfig;
+import com.vinodv.beanid.service.HelloWorld;
 
 public class AppMain {
     

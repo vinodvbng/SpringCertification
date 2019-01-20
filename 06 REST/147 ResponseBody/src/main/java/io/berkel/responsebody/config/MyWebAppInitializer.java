@@ -1,4 +1,4 @@
-package io.berkel.responsebody.config;
+package com.vinodv.responsebody.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

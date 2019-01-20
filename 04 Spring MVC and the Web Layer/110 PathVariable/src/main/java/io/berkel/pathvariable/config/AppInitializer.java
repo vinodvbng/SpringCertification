@@ -1,4 +1,4 @@
-package io.berkel.pathvariable.config;
+package com.vinodv.pathvariable.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

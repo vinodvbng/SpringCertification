@@ -1,4 +1,4 @@
-import io.berkel.sharedappcontext.service.FooService;
+import com.vinodv.sharedappcontext.service.FooService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +16,7 @@ public class FooServiceTest {
 
     @Test
     public void testBarService() {
-        assertEquals("class io.berkel.sharedappcontext.service.FooServiceImpl",this.fooService.getClass().toString());
+        assertEquals("class com.vinodv.sharedappcontext.service.FooServiceImpl",this.fooService.getClass().toString());
     }
 
 }

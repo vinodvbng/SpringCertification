@@ -1,4 +1,4 @@
-package io.berkel.spel.service;
+package com.vinodv.spel.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

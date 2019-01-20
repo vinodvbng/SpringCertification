@@ -5,14 +5,14 @@
 	   					   http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="bar1" class="io.berkel.dependencyinjection.setter.Bar1">
+    <bean id="bar1" class="com.vinodv.dependencyinjection.setter.Bar1">
         <property name="var1" value="1234"/>
         <property name="var2" value="Hello"/>
     </bean>
 
-    <bean id="bar2" class="io.berkel.dependencyinjection.setter.Bar2"/>
+    <bean id="bar2" class="com.vinodv.dependencyinjection.setter.Bar2"/>
 
-    <bean id="foo" class="io.berkel.dependencyinjection.setter.Foo">
+    <bean id="foo" class="com.vinodv.dependencyinjection.setter.Foo">
         <property name="bar1" ref="bar1"/>
         <property name="bar2" ref="bar2"/>
     </bean>

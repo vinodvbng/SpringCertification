@@ -1,4 +1,4 @@
-package io.berkel.responsestatus.exception;
+package com.vinodv.responsestatus.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

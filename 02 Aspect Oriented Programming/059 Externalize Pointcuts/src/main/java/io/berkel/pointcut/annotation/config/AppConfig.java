@@ -1,7 +1,7 @@
-package io.berkel.pointcut.annotation.config;
+package com.vinodv.pointcut.annotation.config;
 
-import io.berkel.pointcut.annotation.aspect.UserAspect;
-import io.berkel.pointcut.annotation.service.UserService;
+import com.vinodv.pointcut.annotation.aspect.UserAspect;
+import com.vinodv.pointcut.annotation.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;

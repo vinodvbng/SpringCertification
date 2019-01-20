@@ -1,6 +1,6 @@
-package io.berkel.scalar.service;
+package com.vinodv.scalar.service;
 
-import io.berkel.scalar.model.Book;
+import com.vinodv.scalar.model.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

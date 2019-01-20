@@ -1,4 +1,4 @@
-package io.berkel.reflectiontestutils.model;
+package com.vinodv.reflectiontestutils.model;
 
 public class Person {
 	

@@ -1,4 +1,4 @@
-package io.berkel.pathvariable.controller;
+package com.vinodv.pathvariable.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

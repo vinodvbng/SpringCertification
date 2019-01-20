@@ -1,4 +1,4 @@
-package io.berkel.webmvc.config;
+package com.vinodv.webmvc.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

@@ -1,7 +1,7 @@
-package io.berkel.beanpostprocessor.main;
+package com.vinodv.beanpostprocessor.main;
 
-import io.berkel.beanpostprocessor.config.AppConfig;
-import io.berkel.beanpostprocessor.service.MessageService;
+import com.vinodv.beanpostprocessor.config.AppConfig;
+import com.vinodv.beanpostprocessor.service.MessageService;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

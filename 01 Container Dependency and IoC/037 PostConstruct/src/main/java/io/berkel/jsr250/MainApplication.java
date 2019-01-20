@@ -1,4 +1,4 @@
-package io.berkel.jsr250;
+package com.vinodv.jsr250;
 
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

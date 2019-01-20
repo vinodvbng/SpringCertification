@@ -1,6 +1,6 @@
-package io.berkel.transactional.config;
+package com.vinodv.transactional.config;
 
-import io.berkel.transactional.service.UserService;
+import com.vinodv.transactional.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;

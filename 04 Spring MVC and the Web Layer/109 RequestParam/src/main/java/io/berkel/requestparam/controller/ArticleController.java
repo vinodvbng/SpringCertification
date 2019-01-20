@@ -1,4 +1,4 @@
-package io.berkel.requestparam.controller;
+package com.vinodv.requestparam.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
