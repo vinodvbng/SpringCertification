@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCertification.iml" filepath="$PROJECT_DIR$/.idea/SpringCertification.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01 Container Dependency and IoC/004 Spring bean life cycle/springbeanlifecycle.iml" filepath="$PROJECT_DIR$/01 Container Dependency and IoC/004 Spring bean life cycle/springbeanlifecycle.iml" />
     </modules>
   </component>
 </project>
