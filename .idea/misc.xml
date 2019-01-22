@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/06 REST/147 ResponseBody" />
+    <file type="web" url="file://$PROJECT_DIR$/06 REST/153 ResponseStatus" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01 Container Dependency and IoC/037 PostConstruct/pom.xml" />
+        <option value="$PROJECT_DIR$/01 Container Dependency and IoC/013 BeanPostProcessor/pom.xml" />
+        <option value="$PROJECT_DIR$/01 Container Dependency and IoC/017 Autowired Qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/03 Data Management JDBC Transactions JPA Spring Data/070 Callback/pom.xml" />
+        <option value="$PROJECT_DIR$/06 REST/153 ResponseStatus/pom.xml" />
+        <option value="$PROJECT_DIR$/06 REST/147 ResponseBody/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

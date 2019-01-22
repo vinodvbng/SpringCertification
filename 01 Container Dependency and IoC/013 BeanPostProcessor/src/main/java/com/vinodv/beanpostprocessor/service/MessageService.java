@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class MessageService {
 
-    @PostConstruct
+    //@PostConstruct
     public void init() {
         System.out.println("Inside init method");
     }
@@ -17,7 +17,7 @@ public class MessageService {
         System.out.println("Hello World!");
     }
 
-    @PreDestroy
+   // @PreDestroy
     public void destroy() {
         System.out.println("Inside destroy method");
     }

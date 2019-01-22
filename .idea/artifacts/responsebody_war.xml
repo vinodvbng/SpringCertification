@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="responsebody:war">
+    <output-path>$PROJECT_DIR$/06 REST/147 ResponseBody/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>responsebody</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="responsebody.war">
+      <element id="artifact" artifact-name="responsebody:war exploded" />
+    </root>
+  </artifact>
+</component>
