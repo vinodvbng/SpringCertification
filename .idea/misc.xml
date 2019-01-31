@@ -3,6 +3,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/06 REST/147 ResponseBody" />
     <file type="web" url="file://$PROJECT_DIR$/06 REST/153 ResponseStatus" />
+    <file type="web" url="file://$PROJECT_DIR$/07 Spring Security/security" />
+    <file type="web" url="file://$PROJECT_DIR$/07 Spring Security/security-solution" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -16,6 +18,11 @@
         <option value="$PROJECT_DIR$/03 Data Management JDBC Transactions JPA Spring Data/070 Callback/pom.xml" />
         <option value="$PROJECT_DIR$/06 REST/153 ResponseStatus/pom.xml" />
         <option value="$PROJECT_DIR$/06 REST/147 ResponseBody/pom.xml" />
+        <option value="$PROJECT_DIR$/01 Container Dependency and IoC/010 Init Destroy/pom.xml" />
+        <option value="$PROJECT_DIR$/01 Container Dependency and IoC/022 Scalar/pom.xml" />
+        <option value="$PROJECT_DIR$/07 Spring Security/security/pom.xml" />
+        <option value="$PROJECT_DIR$/07 Spring Security/security-solution/pom.xml" />
+        <option value="$PROJECT_DIR$/02 Aspect Oriented Programming/063 AfterThrowing/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="init" external.linked.project.path="$MODULE_DIR$/../../07 Spring Security/11-ps-security-solution" external.root.project.path="$MODULE_DIR$/../../07 Spring Security/11-ps-security-solution" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../07 Spring Security/11-ps-security-solution/out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../07 Spring Security/11-ps-security-solution/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../07 Spring Security/11-ps-security-solution">
+      <excludeFolder url="file://$MODULE_DIR$/../../07 Spring Security/11-ps-security-solution/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../07 Spring Security/11-ps-security-solution/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../07 Spring Security/11-ps-security-solution/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

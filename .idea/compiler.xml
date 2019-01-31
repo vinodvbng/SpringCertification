@@ -6,21 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="afterthrowing" />
         <module name="beanpostprocessor" />
         <module name="callback" />
+        <module name="initdestroy" />
         <module name="jsr250" />
         <module name="qualifier" />
         <module name="responsebody" />
         <module name="responsestatus" />
+        <module name="scalar" />
+        <module name="security" />
+        <module name="security-solution" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="afterthrowing" target="1.8" />
       <module name="beanpostprocessor" target="1.7" />
       <module name="callback" target="1.8" />
+      <module name="initdestroy" target="1.8" />
       <module name="jsr250" target="1.8" />
       <module name="qualifier" target="1.8" />
       <module name="responsebody" target="1.7" />
       <module name="responsestatus" target="1.7" />
+      <module name="scalar" target="1.7" />
+      <module name="security" target="1.5" />
+      <module name="security-solution" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

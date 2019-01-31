@@ -2,19 +2,16 @@ package com.vinodv.responsebody.controller;
 
 import com.vinodv.responsebody.model.Person;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
 
-@Controller
+@RestController
 public class MyController {
 
     @RequestMapping(value = "/persons", method = RequestMethod.GET)
-    @ResponseBody
+   // @ResponseBody
     public List<Person> getPersons(@ModelAttribute("person") Person person) {
 
         Person person1 = new Person();

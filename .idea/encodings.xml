@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/01 Container Dependency and IoC/010 Init Destroy" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01 Container Dependency and IoC/013 BeanPostProcessor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01 Container Dependency and IoC/017 Autowired Qualifier" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01 Container Dependency and IoC/022 Scalar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01 Container Dependency and IoC/037 PostConstruct" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02 Aspect Oriented Programming/063 AfterThrowing" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03 Data Management JDBC Transactions JPA Spring Data/070 Callback" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06 REST/147 ResponseBody" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06 REST/153 ResponseStatus" charset="UTF-8" />

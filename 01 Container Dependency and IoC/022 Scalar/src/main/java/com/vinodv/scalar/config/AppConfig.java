@@ -1,4 +1,5 @@
-package com.vinodv.scalar.config;
+Aaz/'package com.vinodv.scalar.config;
+4/[-P0OIY`  `/]
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

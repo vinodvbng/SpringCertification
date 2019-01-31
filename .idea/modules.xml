@@ -3,12 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCertification.iml" filepath="$PROJECT_DIR$/.idea/SpringCertification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 Aspect Oriented Programming/063 AfterThrowing/afterthrowing.iml" filepath="$PROJECT_DIR$/02 Aspect Oriented Programming/063 AfterThrowing/afterthrowing.iml" />
       <module fileurl="file://$PROJECT_DIR$/01 Container Dependency and IoC/013 BeanPostProcessor/beanpostprocessor.iml" filepath="$PROJECT_DIR$/01 Container Dependency and IoC/013 BeanPostProcessor/beanpostprocessor.iml" />
       <module fileurl="file://$PROJECT_DIR$/03 Data Management JDBC Transactions JPA Spring Data/070 Callback/callback.iml" filepath="$PROJECT_DIR$/03 Data Management JDBC Transactions JPA Spring Data/070 Callback/callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/init.iml" filepath="$PROJECT_DIR$/.idea/modules/init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 Container Dependency and IoC/010 Init Destroy/initdestroy.iml" filepath="$PROJECT_DIR$/01 Container Dependency and IoC/010 Init Destroy/initdestroy.iml" />
       <module fileurl="file://$PROJECT_DIR$/01 Container Dependency and IoC/037 PostConstruct/jsr250.iml" filepath="$PROJECT_DIR$/01 Container Dependency and IoC/037 PostConstruct/jsr250.iml" />
       <module fileurl="file://$PROJECT_DIR$/01 Container Dependency and IoC/017 Autowired Qualifier/qualifier.iml" filepath="$PROJECT_DIR$/01 Container Dependency and IoC/017 Autowired Qualifier/qualifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/06 REST/147 ResponseBody/responsebody.iml" filepath="$PROJECT_DIR$/06 REST/147 ResponseBody/responsebody.iml" />
       <module fileurl="file://$PROJECT_DIR$/06 REST/153 ResponseStatus/responsestatus.iml" filepath="$PROJECT_DIR$/06 REST/153 ResponseStatus/responsestatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 Container Dependency and IoC/022 Scalar/scalar.iml" filepath="$PROJECT_DIR$/01 Container Dependency and IoC/022 Scalar/scalar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Spring Security/security/security.iml" filepath="$PROJECT_DIR$/07 Spring Security/security/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Spring Security/security-solution/security-solution.iml" filepath="$PROJECT_DIR$/07 Spring Security/security-solution/security-solution.iml" />
     </modules>
   </component>
 </project>

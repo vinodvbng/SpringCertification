@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.springsource.training.core-spring:rewards-db:3.2.0.CI-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/springsource/training/core-spring/rewards-db/3.2.0.CI-SNAPSHOT/rewards-db-3.2.0.CI-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/springsource/training/core-spring/rewards-db/3.2.0.CI-SNAPSHOT/rewards-db-3.2.0.CI-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/springsource/training/core-spring/rewards-db/3.2.0.CI-SNAPSHOT/rewards-db-3.2.0.CI-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
